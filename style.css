@@ -8,6 +8,7 @@ body {
 .chat {
 	background-color: white;
 	border-radius: .8em;	
+	min-height: 24em;
 }
 
 p {
@@ -24,6 +25,7 @@ footer {
 
 .button {
 	margin-top: 1em;
+	margin-bottom: 1em;
 	text-align: center;
     padding: .5em 1em;
     display: inline;
