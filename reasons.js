@@ -11,6 +11,11 @@ var reasons = [
 	"my hairdresser said i can't go outside for a day",
 	"my doctor said the outside air is bad for me",
 	"i've got to help my brother set up the new TV",
-	"there are no ubers in my neighborhood at all"
+	"there are no ubers in my neighborhood at all",
+	"i'm working on australian timezone today",
+	"i've got a soccer game later and i have to rest up",
+	"the new house of cards season is coming out today",
+	"my neighbours are napping and i don't want to wake them up with the door",
+	"my cat gets lonely and i couldn't find a catsitter"
 ]
 
