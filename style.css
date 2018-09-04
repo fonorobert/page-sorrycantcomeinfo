@@ -6,6 +6,7 @@ body {
 }
 
 .chat {
+	margin-top: 1em;
 	background-color: white;
 	border-radius: .8em;	
 	min-height: 24em;
