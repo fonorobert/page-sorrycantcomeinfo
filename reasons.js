@@ -20,6 +20,11 @@ var reasons = [
 	"i just made coffee and it'll get cold",
 	"i need to water my plants every 2 hours",
 	"it's leg day so i need to rest my legs",
-	"i had a houseparty last night and now i've got to clean up"
+	"i had a houseparty last night and now i've got to clean up",
+	"it's kinda hot outside today",
+	"my ducks are all over the place, i've got to get them in a row",
+	"i can't find my phone and i can't leave without it",
+	"i'm practicing my TED talk in case they invite me to speak",
+	"i'm running an experiment involving a hot bath and 58 rubber ducks"
 ]
 
