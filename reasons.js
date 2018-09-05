@@ -16,6 +16,10 @@ var reasons = [
 	"i've got a soccer game later and i have to rest up",
 	"the new house of cards season is coming out today",
 	"my neighbours are napping and i don't want to wake them up with the door",
-	"my cat gets lonely and i couldn't find a catsitter"
+	"my cat gets lonely and i couldn't find a catsitter",
+	"i just made coffee and it'll get cold",
+	"i need to water my plants every 2 hours",
+	"it's leg day so i need to rest my legs",
+	"i had a houseparty last night and now i've got to clean up"
 ]
 
